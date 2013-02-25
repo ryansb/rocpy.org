@@ -18,6 +18,10 @@ $ `python -n SimpleHTTPServer 8080`
 
 Navigate to localhost:8080
 
+## Demo Page ##
+
+I've set up a Github Pages branch so you can see the current state of the repo without cloning the repo, available here: http://ryansb.github.com/rocpy.org
+
 ## ZURB Foundation License ##
 
 Copyright (c) 2011 ZURB, http://www.zurb.com/
