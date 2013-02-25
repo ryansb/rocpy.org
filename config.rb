@@ -18,7 +18,6 @@ require "zurb-foundation"
 #
 # With no layout
 page "robots.txt", :layout => false
-page "humans.txt", :layout => false
 #
 # With alternative layout
 # page "/path/to/file.html", :layout => :otherlayout
@@ -63,7 +62,7 @@ configure :build do
   # activate :cache_buster
 
   # Use relative URLs
-  # activate :relative_assets
+  activate :relative_assets
 
   # Compress PNGs after build
   # First: gem install middleman-smusher
