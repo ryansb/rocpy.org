@@ -48,3 +48,10 @@
 
 // Media Queries Overrides
 @import "foundation/components/modules/mqueries";
+
+body {
+    background-image: image-url('../images/patterns/ecailles.png', false, false)
+}
+.nav-bar {
+    background-image: image-url('../images/patterns/dark_fish_skin.png', false, false)
+}
