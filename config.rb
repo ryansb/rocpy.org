@@ -68,6 +68,7 @@ configure :build do
   # First: gem install middleman-smusher
   # require "middleman-smusher"
   # activate :smusher
+  activate :livereload
 
   # Or use a different image path
   # set :http_path, "/Content/images/"
